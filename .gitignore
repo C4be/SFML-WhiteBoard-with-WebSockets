@@ -1,0 +1,9 @@
+build/
+
+.vscode/
+
+out/
+
+*.json
+
+*.ttf
