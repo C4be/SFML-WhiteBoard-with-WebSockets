@@ -41,7 +41,7 @@ int main() {
 
     // Шрифт для текста FPS
     sf::Font font;
-    if (!font.loadFromFile("./../Roboto-Medium.ttf")) {
+    if (!font.loadFromFile("../../../Roboto-Medium.ttf")) {
         std::cerr << "Error loading font!" << std::endl;
         return -1;
     }
